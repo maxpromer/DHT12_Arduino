@@ -1,0 +1,16 @@
+{
+  "name" : "DHT12",
+  "title": "DHT12",
+  "category" : "Sensors",
+  "keywords": "temperature, temperature sensor, humidity, humidity sensor",
+  "description": "DHT12 Digital temperature and humidity sensor",
+  "homepage": "https://github.com/maxpromer/DHT12_Arduino",
+  "license": "MIT",
+  "git": "https://github.com/maxpromer/DHT12_Arduino",
+  "author": "Sonthaya Nongnuch",
+  "url": "https://www.ioxhop.com/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-avr","arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
